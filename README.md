@@ -40,9 +40,9 @@ _
 A Quiz App is a mobile or web application designed to engage users with interactive quizzes on various topics. It allows users to test their knowledge, learn new things, and have fun through multiple-choice questions, true/false, or other question formats. Features can include customizable quiz categories, timed sessions, leaderboards, and progress tracking. Ideal for educational purposes, entertainment, or com.
 ![Repo Stats](https://img.shields.io/github/stars/wajihulhasan01/Quiz-App?style=social)  
 
-🌟 [**Salt n Paper**](https://github.com/wajihulhasan01/AnotherProjectName)  
+🌟 [**Salt n Paper**](https://github.com/wajihulhasan01/Saltnpaper)  
 A cloned website created for practice and skill development.
-![Repo Stats](https://img.shields.io/github/forks/wajihulhasan01/AnotherProjectName?style=social)  
+![Repo Stats](https://img.shields.io/github/forks/wajihulhasan01/Saltnpaper?style=social)  
 
 ---
 
