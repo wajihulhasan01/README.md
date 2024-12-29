@@ -48,7 +48,7 @@ A cloned website created for practice and skill development.
 
 ### 🌐 Connect with Me   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wajihulhasan01 )  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23121212.svg?style=for-the-badge&logo=vercel&logoColor=white)](https:wajihulhasan.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23121212.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://wajihulhasan01.github.io/Portfolio/)  
 
 ---
 
